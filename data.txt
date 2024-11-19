@@ -1,2 +1,6 @@
+
 Ligne ajoutée par feature-b 
 nouvelle ligne feature-b
+
+j'ecris une ligne pour feature-b ( j'en ai fait aucune pour feature-a )
+nouvelle ligne feature-a
