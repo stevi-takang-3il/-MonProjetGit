@@ -1,1 +1,1 @@
-j'ecris une ligne pour feature-b ( j'en ai fait aucune pour feature-a )
+Ligne ajoutée par feature-b 
